@@ -10,11 +10,11 @@ Here is a preview of the application's premium user interface in action. *(To di
 
 | 📊 Modern Dashboard | 🗂️ 2D Rack Grid | 🔍 Click-to-View QR Code |
 | :---: | :---: | :---: |
-| <img src="screenshots/dashboard.png" width="230" alt="Dashboard Screen"/> | <img src="screenshots/rack_view.png" width="230" alt="2D Rack View Screen"/> | <img src="screenshots/qr_view.png" width="230" alt="QR Code Modal Screen"/> |
+| <img src="image.png" width="220" alt="Dashboard Screen"/> | <img src="image-1.png" width="220" alt="2D Rack View Screen"/> | <img src="image-2.png" width="220" alt="QR Code Modal Screen"/> |
 
 | 📦 Inventory Operations | 🔧 Master Configuration | ⚙️ Theme Settings |
 | :---: | :---: | :---: |
-| <img src="screenshots/inventory.png" width="230" alt="Inventory Tab Screen"/> | <img src="screenshots/masters.png" width="230" alt="Masters Tab Screen"/> | <img src="screenshots/settings.png" width="230" alt="Settings Screen"/> |
+| <img src="image-3.png" width="220" alt="Inventory Tab Screen"/> | <img src="image-4.png" width="220" alt="Masters Tab Screen"/> | <img src="image-5.png" width="220" alt="Settings Screen"/> |
 
 ---
 
