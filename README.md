@@ -8,20 +8,13 @@ A modern, high-performance cross-platform mobile application built using **React
 
 Here is a preview of the application's premium user interface in action. *(To display your screenshots, save your images in a `screenshots/` folder in this directory as named below, or update the paths)*:
 
-#### 📊 Core Views
-| Dashboard | 2D Rack View | QR Code Viewer | Settings Screen |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/dashboard.png" width="180" alt="Dashboard"/> | <img src="screenshots/rack_view.png" width="180" alt="2D Rack View"/> | <img src="screenshots/qr_view.png" width="180" alt="QR Viewer"/> | <img src="screenshots/settings.png" width="180" alt="Settings"/> |
-
-#### 📦 Inventory Management
-| Inventory Hub | Add Stock | Move Inventory | Remove Stock |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/inventory_hub.png" width="180" alt="Inventory Hub"/> | <img src="screenshots/add_inventory.png" width="180" alt="Add Stock"/> | <img src="screenshots/move_inventory.png" width="180" alt="Move Inventory"/> | <img src="screenshots/remove_inventory.png" width="180" alt="Remove Stock"/> |
-
-#### 🔧 Master Configuration
-| Masters Hub | Store Configuration | Location Setup |
+| 📊 Modern Dashboard | 🗂️ 2D Rack Grid | 🔍 Click-to-View QR Code |
 | :---: | :---: | :---: |
-| <img src="screenshots/masters_hub.png" width="180" alt="Masters Hub"/> | <img src="screenshots/store_master.png" width="180" alt="Store Master"/> | <img src="screenshots/location_master.png" width="180" alt="Location Setup"/> |
+| <img src="screenshots/dashboard.png" width="230" alt="Dashboard Screen"/> | <img src="screenshots/rack_view.png" width="230" alt="2D Rack View Screen"/> | <img src="screenshots/qr_view.png" width="230" alt="QR Code Modal Screen"/> |
+
+| 📦 Inventory Operations | 🔧 Master Configuration | ⚙️ Theme Settings |
+| :---: | :---: | :---: |
+| <img src="screenshots/inventory.png" width="230" alt="Inventory Tab Screen"/> | <img src="screenshots/masters.png" width="230" alt="Masters Tab Screen"/> | <img src="screenshots/settings.png" width="230" alt="Settings Screen"/> |
 
 ---
 
